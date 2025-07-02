@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Long Beach Bike Co-op'
+theme = 'ananke'
+[markup]
+  [markup.goldmark.renderer]
+    unsafe=true
