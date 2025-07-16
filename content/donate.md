@@ -1,4 +1,5 @@
 ---
+title: Donate
 omit_header_text: true
 description: Would you like to support us?
 type: page
