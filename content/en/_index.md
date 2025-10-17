@@ -2,7 +2,7 @@
 title: " "
 description: "Enabling anyone to fix their bicycle by providing access to tools, space, and knowledge."
 omit_header_text: true
-featured_image: 'content/images/spinning.gif'
+featured_image: '/images/spinning.gif'
 show_recent_posts: false
 ---
 <style type="text/css">
