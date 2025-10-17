@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-omit_header_text: false
+omit_header_text: true
 featured_image: '/images/spinning.gif'
 type: page
 menu:
