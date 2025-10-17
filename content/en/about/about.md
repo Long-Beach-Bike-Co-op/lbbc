@@ -5,7 +5,7 @@ featured_image: '/images/spinning.gif'
 type: page
 menu:
   main:
-    weight: 2
+    weight: 10
 ---
 Incorporated in 2024, the Long Beach Co-Op is a group of bicycle enthusiasts that envision a cleaner and healthier Long Beach by spreading our love of two wheels. We help our community fulfill their transportation and recreational needs through our work fixing bikes, selling bikes, and sharing our knowledge of bikes.  
 

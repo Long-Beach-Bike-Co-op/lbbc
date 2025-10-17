@@ -5,7 +5,7 @@ featured_image: '/images/spinning.gif'
 type: page
 menu:
   main:
-    weight: 2
+    weight: 40
 ---
 # Bikes, Parts, and Tools
 We accept donations of bikes, parts, and tools. Drop them off during our regular shop hours or contact us to schedule a time to drop-off. We also can travel to pickup larger donations.  

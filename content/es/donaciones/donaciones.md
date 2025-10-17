@@ -5,7 +5,7 @@ featured_image: '/images/spinning.gif'
 type: page
 menu:
   main:
-    weight: 2
+    weight: 39
 ---
 # Bicicletas, Piezas y Herramientas
 Aceptamos donaciones de bicicletas, piezas y herramientas. Déjelas en nuestro horario habitual o contáctenos para programar una entrega. También podemos desplazarnos para recoger donaciones más grandes.  

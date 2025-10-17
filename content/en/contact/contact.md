@@ -5,7 +5,7 @@ featured_image: '/images/spinning.gif'
 type: page
 menu:
   main:
-    weight: 2
+    weight: 30
 ---
 Email: [hello@lbbikecoop.org](mailto:hello@lbbikecoop.org)
 
