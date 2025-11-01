@@ -1,6 +1,6 @@
 +++
 title = "Donate"
-type = "page"
+type = "post"
 +++
 
 # Bikes, Parts, and Tools
